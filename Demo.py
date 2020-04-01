@@ -7,4 +7,4 @@ X =  dataset.iloc[:,:-1].values
 Y = dataset.iloc[:,1].values
 
 regressor = LinearRegression()
-result ,X_train,X_test, Y_Train,Y_test, Y_train_predict ,Y_test_predict = regressor.cal_R(X,Y, 6.2#X_value)
+result ,X_train,X_test, Y_Train,Y_test, Y_train_predict ,Y_test_predict = regressor.cal_R( X, Y, 6.2 """X_value""") 
