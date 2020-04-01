@@ -6,6 +6,6 @@ It also do visualising of both training and test dataset.
 
 # Instructions
 
--Import dataset by replacing file name in demo.py 
--Make sure your dataset file should csv file and present in same directory.
--Replace X_values with the value which you want to predict.
+- Import dataset by replacing file name in demo.py 
+- Make sure your dataset file should csv file and present in same directory.
+- Replace X_values with the value which you want to predict.
